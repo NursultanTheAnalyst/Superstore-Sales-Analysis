@@ -14,6 +14,9 @@ Superstore is a fictional retail company based in the United States. They specia
 - What are the KPIs?
 
 ## DATASET:
+The original dataset was obtained from the HiCounselor website. It contains 9993 sales transactions that occurred from 2019 to 2022. This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data. There are no missing values or any irrelevant data types and values. During the inspection process, a duplicate entry was identified and removed for accuracy. For those who are interested in viewing or downloading the refined dataset, it is available in my GitHub repository.
+
+## DASHBOARDS:
 ![Снимок экрана 2024-12-01 201744](https://github.com/user-attachments/assets/cf932de9-2bc6-4890-9486-0b006108a085)
 
 ## KPIs:
